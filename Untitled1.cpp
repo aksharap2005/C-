@@ -145,6 +145,88 @@ cin>>a>>b;
 cout<<"answer is "<<(a==b);
 }
 
+//postive neagtive if...else if
+#include<iostream>
+using namespace std;
+int main()
+{int a;
+cout<<"enter a number";
+cin>>a;
+if(a>0)
+{cout<<"number is positve";
+}
+else if(a==0)
+{cout<<"number is 0";
+}
+else
+{cout<<"number is negative";
+}
+}
+
+//odd even if...else if
+#include<iostream>
+using namespace std;
+int main()
+{int a;
+cout<<"enter a number";
+cin>>a;
+if(a%2==1)
+{
+cout<<"number is odd";}
+else if(a==0)
+{cout<<"number is 0";}
+else
+{cout<<"number is even";
+}
+}
+
+//percentage if....else if
+#include<iostream>
+using namespace std;
+int main()
+{int a,b,c;
+cout<<"enter three subjects marks";
+cin>>a>>b>>c;
+int d=(a+b+c);
+int e=d*100;
+int f=e/300;
+cout<<f;
+if(f>75)
+{
+cout<<"distinction";}
+else if(f<75 && f>60)
+{
+cout<<"first class";
+}
+else if(f<60 && f>40)
+{cout<<"second class";
+}
+else
+{cout<<"fail";
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
