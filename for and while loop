@@ -1,0 +1,135 @@
+//FOR LOOP
+//#include<iostream>
+//using namespace std;
+//int main()
+//{int a;
+//for(a=1;a<6;a++)
+//cout<<"\n"<<a;}
+
+//#include<iostream>
+//using namespace std;
+//int main()
+//{int a;
+//for(a=2;a<=47;a++)
+//cout<<a;}
+
+//#include<iostream>
+//using namespace std;
+//int main()
+//{int a;
+//for(a=100;a>=1;a--)
+//cout<<a;}
+
+//#include<iostream>
+//using namespace std;
+//int main()
+//{int a;
+//for(a=45;a<106;a++)
+//cout<<a;}
+
+//USER DEFINED
+//#include<iostream>
+//using namespace std;
+//int main()
+//{int a,n;
+//cout<<"enter end point";
+//cin>>n;
+//for(a=1;a<=n;a++)
+//cout<<a;}
+
+//#include<iostream>
+//using namespace std;
+//int main()
+//{int a,p,n;
+//cout<<"enter start and end point";
+//cin>>n>>p;
+//for(a=n;a<=p;a++)
+//cout<<a<<endl;
+//}
+
+//#include<iostream>
+//using namespace std;
+//int main() 
+//{int a,b,c;
+//cout<<"enter a start and end point";
+//cin>>b>>c;
+//for(a=b;a>=c;a--)
+//cout<<a<<endl;
+//}
+
+//WHILE LOOP
+//#include<iostream>
+//using namespace std;
+//int main()
+//{int a;
+//a=1;
+//while(a<=49)
+//{
+//cout<<a<<endl;
+//a++;}}
+
+//#include<iostream>
+//using namespace std;
+//int main()
+//{int a;
+//a=2;
+//while(a<=47)
+//{
+//cout<<a<<endl;
+//a++;}}
+
+//#include<iostream>
+//using namespace std;
+//int main()
+//{int a;
+//a=100;
+//while(a>=1)
+//{
+//cout<<a;
+//a--;}}
+
+//#include<iostream>
+//using namespace std;
+//int main()
+//{int a;
+//a=45;
+//while(a<=105)
+//{
+//cout<<a;
+//a++;}}
+
+//#include<iostream>
+//using namespace std;
+//int main()
+//{int a;
+//a=1000;
+//while(a<=100000)
+//{
+//cout<<a;
+//a++;}}
+
+//USER DEFINED 
+//#include<iostream>
+//using namespace std;
+//int main()
+//{int a,b,c;
+//cout<<"enter a start and end point";
+//cin>>b>>c;
+//a=b;
+//while(a>=c)
+//{
+//cout<<a;
+//a--;}}
+
+//
+//#include<iostream>
+//using namespace std;
+//int main()
+//{int a,b,c;
+//cout<<"enter a start and end point";
+//cin>>b>>c;
+//a=b;
+//while(a<=c)
+//{
+//cout<<a;
+//a++;}}
